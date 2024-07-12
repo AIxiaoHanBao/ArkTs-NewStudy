@@ -1,0 +1,156 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Navigation systemRouting"
+    },
+    {
+      "name": "navDestination_width",
+      "value": "100%"
+    },
+    {
+      "name": "navDestination_height",
+      "value": "100%"
+    },
+    {
+      "name": "button_width",
+      "value": "100%"
+    },
+    {
+      "name": "button_height",
+      "value": "40"
+    },
+    {
+      "name": "column_padding",
+      "value": "16"
+    },
+    {
+      "name": "entry_index_title",
+      "value": "NavIndex"
+    },
+    {
+      "name": "entry_index",
+      "value": "toIndex"
+    },
+    {
+      "name": "entry_pageOne",
+      "value": "toEntryPageOne"
+    },
+    {
+      "name": "entry_pageTwo",
+      "value": "toEntryPageTwo"
+    },
+    {
+      "name": "harA_pageOne",
+      "value": "toHarAPageOne"
+    },
+    {
+      "name": "harA_pageTwo",
+      "value": "toHarAPageTwo"
+    },
+    {
+      "name": "harB_pageOne",
+      "value": "toHarBPageOne"
+    },
+    {
+      "name": "harB_pageTwo",
+      "value": "toHarBPageTwo"
+    },
+    {
+      "name": "hspA_pageOne",
+      "value": "toHspAPageOne"
+    },
+    {
+      "name": "hspA_pageTwo",
+      "value": "toHspAPageTwo"
+    },
+    {
+      "name": "hspB_pageOne",
+      "value": "toHspBPageOne"
+    },
+    {
+      "name": "hspB_pageTwo",
+      "value": "toHspBPageTwo"
+    },
+    {
+      "name": "login",
+      "value": "Sign in/Sign up>"
+    },
+    {
+      "name": "personalInfo",
+      "value": "Personal info"
+    },
+    {
+      "name": "avatar",
+      "value": "Profile picture"
+    },
+    {
+      "name": "nickname",
+      "value": "Nickname"
+    },
+    {
+      "name": "inputNickname",
+      "value": "Set"
+    },
+    {
+      "name": "inputPhone",
+      "value": "Authorize"
+    },
+    {
+      "name": "phone",
+      "value": "Mobile number"
+    },
+    {
+      "name": "dearUser",
+      "value": "Dear user>"
+    },
+    {
+      "name": "hwid_no_internet_connect",
+      "value": "No Internet connection. Check your network settings."
+    },
+    {
+      "name": "hwid_text_button_known",
+      "value": "OK"
+    },
+    {
+      "name": "agree",
+      "value": "I have read and agree to "
+    },
+    {
+      "name": "privacy",
+      "value": "Privacy Policy"
+    },
+    {
+      "name": "and",
+      "value": " and "
+    },
+    {
+      "name": "protocols",
+      "value": "User Service Agreement"
+    },
+    {
+      "name": "others",
+      "value": "Sign in another way"
+    },
+    {
+      "name": "end",
+      "value": "."
+    },
+    {
+      "name": "appName",
+      "value": "App name"
+    },
+    {
+      "name": "appDesc",
+      "value": "App description"
+    }
+  ]
+}

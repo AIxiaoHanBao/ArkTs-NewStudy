@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Page",
+    "pages/Navigation/NavigationExample",
+    "pages/RequestTest/Page1",
+    "pages/WantTest/WantPage1"
+  ]
+}
